@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+}
+
+h1{
+    color:whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(243, 241, 206); /* #ff0000 */
+    padding-bottom:2%;
+}
+
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#conid{
+    color:red;
+}
+
+.negrita
+{
+    font-weight: bold;
+}
+
+.subrayar
+{
+    text-decoration: underline;
+}
+
+.divtitulo
+{
+    background-color: cadetblue;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.contenido
+{
+    margin-left:5%;
+    margin-right: 5%;
+    /*background-color: rgb(233, 230, 184);*/
+}
